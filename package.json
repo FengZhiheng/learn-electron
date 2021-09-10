@@ -1,0 +1,19 @@
+{
+  "name": "electron-quick-start",
+  "productName": "electron-quick-start",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "FengZhiheng",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "update-electron-app": "*",
+    "electron-log": "*"
+  },
+  "devDependencies": {
+    "electron": "13.1.7"
+  }
+}
